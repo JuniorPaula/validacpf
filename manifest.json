@@ -1,6 +1,7 @@
 {
     "name": "Valida CPF",
     "version": "1.0",
+    "author": "Junior Paula",
     "description": "Realiza a validação de cpf, verificando se o mesmo é válido ou inválido.",
     "browser_action": {
         "default_popup": "index.html"
