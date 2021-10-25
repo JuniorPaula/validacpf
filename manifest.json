@@ -1,0 +1,10 @@
+{
+    "name": "Valida CPF",
+    "version": "1.0",
+    "Description": "Realiza a validação de cpf",
+    "browser_action": {
+        "default_popup": "index.html"
+    },
+    "manifest_version": 2
+
+}
