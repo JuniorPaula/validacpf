@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(11, 31, 54);
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: auto;
+}
+
+.input-cpf {
+    outline: none;
+    height: 25px;
+    font-size: 18px;
+    margin-right: 8px;
+}
+
+.btn-submit {
+    border: none;
+    padding: 6px;
+    background-color: rgb(28, 73, 116);
+    color: #fff;
+    font-size: 16px;
+    font-weight: 700;
+    cursor: pointer;
+}
